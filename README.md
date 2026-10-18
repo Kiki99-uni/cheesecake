@@ -1,7 +1,7 @@
 # cheesecakefire
 
 Test-First class
-![ImgName] (https://upload.wikimedia.org/wikipedia/commons/e/ee/Konstanz_Imperia_01.jpg)
+![ImgName] (images/Konstanz_Imperia_01.jpg)
 #Lake of Constance
 Lake Constance is a large lake in Central Europe. It is located between three countries: Germany, Austria, and Switzerland. The lake is also called Bodensee in German. It is one of the largest lakes in Central Europe and is an important place for tourism and nature.
 
