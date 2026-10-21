@@ -17,13 +17,13 @@ In conclusion, Lake Constance is a wonderful place to visit because it offers na
 
 \##Table about the real water-Level data from Lake constance
 
-|year|Highest water level|Date|
-|-|:-:|-:|
-|2020|401 cm|3-4 July|
-|2021|484 cm|19 July|
-|2022|377 cm|10-12 June|
-|2023|421 cm|31. August|
-|2024|510 cm|11-12 June|
+| year | Highest water level | Date |
+| - | :-: | -: |
+| 2020 | 401 cm | 3-4 July |
+| 2021 | 484 cm | 19 July |
+| 2022 | 377 cm | 10-12 June |
+| 2023 | 421 cm | 31. August |
+| 2024 | 510 cm | 11-12 June |
 
 
 
